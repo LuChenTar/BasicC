@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <string.h>
-
+//conflict 2
 int main(void) {
     struct employee {
         char name [40];//array member
