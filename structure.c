@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <string.h>
-
+//cause some conflict
+//use pointer to point to a structure
 int main(void) {
     struct employee {
         char name [40];//array member
