@@ -1,6 +1,11 @@
 #include <stdio.h>
 #include <string.h>
+<<<<<<< HEAD
 //conflict 2
+=======
+//cause some conflict
+//use pointer to point to a structure
+>>>>>>> fix21
 int main(void) {
     struct employee {
         char name [40];//array member
